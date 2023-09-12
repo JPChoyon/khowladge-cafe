@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "cover": "./images/boy1.png",
+    "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
     "title": "Top 10 ES6 Features You Must Know",
-    "author_img": "./images/1.jpg",
+    "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
     "author": "Hamza Sohail",
     "posted_date": "September 15, 2023",
     "reading_time": 5,
@@ -11,9 +11,9 @@
   },
   {
     "id": 2,
-    "cover": "./images/boy2.png",
+    "cover": "https://i.ibb.co/6N2dgnZ/2.png",
     "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
-    "author_img": "./images/2.png",
+    "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
     "author": "Sajal Ali",
     "posted_date": "August 28, 2023",
     "reading_time": 4,
@@ -21,9 +21,9 @@
   },
   {
     "id": 3,
-    "cover": "./images/girl1.jpg",
+    "cover": "https://i.ibb.co/RzGzcPg/3.png",
     "title": "Component lifecycle in React — Class component vs Functional component",
-    "author_img": "./images/3.png",
+    "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
     "author": "Feroze Khan",
     "posted_date": "July 10, 2023",
     "reading_time": 10,
@@ -31,9 +31,9 @@
   },
   {
     "id": 4,
-    "cover": "./images/girl2.jpg",
+    "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
     "title": "Free images and resources collection for website",
-    "author_img": "./images/4.jpg",
+    "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
     "author": "Anmol Baloch",
     "posted_date": "June 5, 2023",
     "reading_time": 9,
