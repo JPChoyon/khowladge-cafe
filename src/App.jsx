@@ -1,12 +1,12 @@
 import "./App.css";
-import Blog from "./Component/Blogs/Blog";
+import Blogs from "./Component/Blogs/Blogs";
 import Header from "./Component/Header";
 
 function App() {
   return (
     <>
       <Header></Header>
-      <Blog></Blog>
+      <Blogs></Blogs>
     </>
   );
 }
