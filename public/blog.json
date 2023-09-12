@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+    "cover": "./images/boy1.png",
     "title": "Top 10 ES6 Features You Must Know",
     "author_img": "./images/1.jpg",
     "author": "Hamza Sohail",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+    "cover": "./images/boy2.png",
     "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
     "author_img": "./images/2.png",
     "author": "Sajal Ali",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "cover": "https://i.ibb.co/RzGzcPg/3.png",
+    "cover": "./images/girl1.jpg",
     "title": "Component lifecycle in React — Class component vs Functional component",
     "author_img": "./images/3.png",
     "author": "Feroze Khan",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+    "cover": "./images/girl2.jpg",
     "title": "Free images and resources collection for website",
     "author_img": "./images/4.jpg",
     "author": "Anmol Baloch",

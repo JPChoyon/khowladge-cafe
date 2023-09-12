@@ -10,7 +10,6 @@ const Header = () => {
           <img src="../../public/images/profile.png" />
         </div>
         </div>
-
       </div>
     </div>
   );
