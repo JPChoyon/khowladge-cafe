@@ -1,5 +1,19 @@
+import { useEffect, useState } from "react";
+
 const Blog = () => {
-  return <div></div>;
+    const [blogs,setBlogs] = useState([]);
+
+    useEffect(()=>{
+        fetch('../../../public/blog.json')
+        .then(res=>res.json())
+        .then(data=> setBlogs(data))
+    },[])
+
+    return (
+        <div>
+            
+        </div>
+    );
 };
 
 export default Blog;
